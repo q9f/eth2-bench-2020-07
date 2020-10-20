@@ -1,3 +1,7 @@
+> **:heavy_check_mark: Update:** new benchmark available: [Multi-client benchmark on Medalla testnet 2020/10/01](https://github.com/q9f/eth2-bench-2020-10)
+
+---
+
 # Multi-client benchmark on Altona testnet 2020/07/16
 Preliminary, high-level ETH2-client benchmarks.
 - [x] Lighthouse
